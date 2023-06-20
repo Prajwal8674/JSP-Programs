@@ -7,7 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-<b><%
+<b>
+<%
 int a = 19;
 String b = "Prajwal";
 out.print("My name is "+b+" and i am "+a+" years old");
